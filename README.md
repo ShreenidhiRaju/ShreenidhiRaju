@@ -96,8 +96,8 @@ a network while supporting recovery from interrupted transfers.
 
 ### 🔐 Password Manager
 
-A full-stack password management application for securely storing
-and managing user credentials, with authentication and protected
-backend APIs.
+Developed a full-stack password manager using React.js, Express.js, MongoDB, and Tailwind CSS, enabling users to
+store, update, and delete credentials through a responsive interface while integrating RESTful APIs with MongoDB for
+efficient credential management.
 
-**Tech:** React • Node.js • Express.js • MongoDB • JWT
+**Tech:** React • Node.js • Express.js • MongoDB 
