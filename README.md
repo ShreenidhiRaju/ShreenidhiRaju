@@ -1,6 +1,6 @@
 # Hi, I'm Shreenidhi 👋
 
-### Software Developer | Full-Stack • AI • Systems
+### Software Development | Full-Stack • AI • Systems
 
 I enjoy building software from the ground up, with a focus on
 AI-powered applications, full-stack development, backend systems,
